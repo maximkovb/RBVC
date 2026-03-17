@@ -1,0 +1,4 @@
+node_modules/
+rbvc.db
+public/uploads/*
+!public/uploads/.gitkeep
