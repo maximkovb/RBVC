@@ -1,4 +1,6 @@
 node_modules/
 rbvc.db
+rbvc.db-shm
+rbvc.db-wal
 public/uploads/*
 !public/uploads/.gitkeep
